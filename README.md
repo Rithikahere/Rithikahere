@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Rithika R V 
 
-<!--
-**Rithikahere/Rithikahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Student | 💻 Full Stack Developer | 🚀 Passionate about Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎯 Final year student aspiring to become a Software Developer
+* 💻 Skilled in Full Stack Development (Frontend + Backend + Database)
+* 🧠 Strong interest in Data Structures & Problem Solving
+* 🔥 Dedicated to continuous learning and building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+* HTML5, CSS3, JavaScript
+* React.js
+
+### ⚙️ Backend
+
+* Node.js
+* Java
+
+### 🗄️ Database
+
+* MongoDB
+* MySQL / SQL
+
+---
+
+## 🧠 Coding Practice
+
+* 💡 Practicing Data Structures and Algorithms daily
+* 🔍 Focus Areas: Arrays, Strings, Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/Rithikahere
+* 📧 Email :  rithikaarvr@gmail.com
+
+---
+
+⭐ *"Consistency and hard work lead to success!"*

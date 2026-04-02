@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Rithika;Full+Stack+Developer;React+%7C+Node+%7C+Java;DSA+Learner;Welcome+to+my+GitHub!&center=true&width=500&height=50">
+</p>
+
 # 👋 Hi, I'm Rithika R V 
 
 🎓 Final Year Student | 💻 Full Stack Developer | 🚀 Passionate about Web Development
